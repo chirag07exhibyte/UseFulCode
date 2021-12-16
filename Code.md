@@ -14,3 +14,11 @@ model-viewer::part(default-progress-bar) {
 model-viewer::part(default-progress-bar) {
 	background-color: red;
 }
+
+
+# Body Add Class using jQuery
+
+if ($('body').hasClass('Test123')) {
+    return;
+}
+document.body.classList.add("Test123");
