@@ -1,7 +1,7 @@
 - There is nothing Impossible. Impossible word having possible word.
 
 
-# Remove The Loader background or Add Loader background Color In model-viewer
+# Remove The Loader background or Add Loader background In model-viewer
 
 :Remove background
 
